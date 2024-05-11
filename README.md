@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cuixiaotu
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning Spring
-- 💞️ I’m looking to collaborate on JAVA Develepment.
+- 👀 I’m interested in GO
+- 🌱 I’m currently learning Cloud Native
+- 💞️ I’m looking to collaborate on Go Develepment.
 - 📫 
 
 <!---
